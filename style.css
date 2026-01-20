@@ -82,3 +82,19 @@ body {
     padding: 0 20px; /*20px from left right*/
     margin-top: 50px; /*to add space from the top*/
 }
+
+.col{
+    display: flex;
+    align-items: center;
+    text-align: left;
+}
+
+.col img{
+    width: 40px;
+    margin-right: 10px ;
+}
+
+.himidity, .wind{
+    font-size: 28px;
+    margin-top: -6px;
+}
